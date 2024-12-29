@@ -1,0 +1,27 @@
+.header-navbar {
+    min-height: 70px;
+    padding: 10px 0;
+    transition: all 0.3s;
+    border-bottom-width: 0;
+    justify-content: space-between; 
+    align-items: center;
+}
+
+.menu-box {
+    padding-left: 64px;
+    padding-right: 64px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+
+.menu-box ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .menu-box ul li {
+    margin: 0 10px;
+  }
